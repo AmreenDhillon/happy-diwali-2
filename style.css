@@ -1,0 +1,27 @@
+body {
+    background-image:url("school.jpg");
+    background-position:center;
+    background-size:cover;
+}
+
+   
+#h2 {
+    font-weight: bold;
+    font-family: 'Festive', cursive;
+    color: deeppink;
+}
+#p1 {
+    font-size: large;
+    font-style: italic;
+    color: brown;
+}
+.copy_right_footer { position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: aquamarine;
+    }
+    #h4 {
+        color: purple;
+    }
+
